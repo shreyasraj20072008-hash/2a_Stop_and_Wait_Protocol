@@ -1,4 +1,4 @@
-<img width="1122" height="955" alt="image" src="https://github.com/user-attachments/assets/3dd944fb-274d-4f95-8f04-0869ded66384" /># 2a_Stop_and_Wait_Protocol
+# 2a_Stop_and_Wait_Protocol
 ## AIM 
 To write a python program to perform stop and wait protocol
 ## ALGORITHM
